@@ -8,7 +8,7 @@ Please enjoy the results of my first Processing project:
 
 **3D presentation:** https://vimeo.com/170781644
 
-It's a minimalist EQ animation and yes, it's not the best on the market :blush:
+It's a minimalistic EQ animation and yes, it's not the best on the market :blush:
 
 **Instructions:** You can use it with any song (put the music file next to the .pde and name it 'music.mp3'), but it's only tuned for *Mike Oldfield - Nuclear*. I recommend to try out with that song for maximal enjoyment. 
 
