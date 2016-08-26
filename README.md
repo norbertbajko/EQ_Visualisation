@@ -10,7 +10,7 @@ Please enjoy the results of my first Processing project:
 
 It's a minimalistic EQ animation and yes, it's not the best on the market :blush:
 
-**Instructions:** After downloading Processing 3 (+ minim plugin), you can use it with any song (put the music file next to the .pde and name it 'music.mp3'), but it's only tuned for *Mike Oldfield - Nuclear*. I recommend to try out with that song for maximal enjoyment. 
+**Instructions:** After downloading Processing 3 (+ minim plugin), you can use it with any song (put the music file next to the .pde and name it 'music.mp3'), but it's tuned for *Mike Oldfield - Nuclear*. I recommend to try out with that song for maximal enjoyment. 
 
 TO-DO:
   - Adaptively adjusting the amplification to the sound intensity
@@ -18,4 +18,3 @@ TO-DO:
 
 After these modifications, I hope it will work great with any song.
 
-Norbi
